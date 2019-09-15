@@ -1,0 +1,5 @@
+C:\Users\akl\Desktop\snake1\snake1\obj\Release\dotsnake.csproj.CoreCompileInputs.cache
+C:\Users\akl\Desktop\snake1\snake1\obj\Release\snake1.exe
+C:\Users\akl\Desktop\snake1\snake1\obj\Release\snake1.pdb
+C:\Users\akl\Desktop\snake1\snake1\bin\Release\snake1.exe
+C:\Users\akl\Desktop\snake1\snake1\bin\Release\snake1.pdb

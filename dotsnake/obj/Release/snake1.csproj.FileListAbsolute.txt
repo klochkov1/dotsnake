@@ -1,0 +1,11 @@
+C:\Users\Aleksandr\Desktop\snake1\snake1\bin\Release\snake1.exe
+C:\Users\Aleksandr\Desktop\snake1\snake1\bin\Release\snake1.pdb
+C:\Users\Aleksandr\Desktop\snake1\snake1\obj\Release\snake1.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Desktop\snake1\snake1\obj\Release\snake1.exe
+C:\Users\Aleksandr\Desktop\snake1\snake1\obj\Release\snake1.pdb
+C:\Users\akl\Desktop\snake1\snake1\bin\Release\snake1.exe
+C:\Users\akl\Desktop\snake1\snake1\bin\Release\snake1.pdb
+C:\Users\akl\Desktop\snake1\snake1\obj\Release\snake1.csprojAssemblyReference.cache
+C:\Users\akl\Desktop\snake1\snake1\obj\Release\snake1.csproj.CoreCompileInputs.cache
+C:\Users\akl\Desktop\snake1\snake1\obj\Release\snake1.exe
+C:\Users\akl\Desktop\snake1\snake1\obj\Release\snake1.pdb
